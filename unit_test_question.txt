@@ -1,0 +1,226 @@
+
+What are the applications in scope for the Swift CSP Scope program?
+
+What is the link to the CCMS application in eGEA with its information?
+
+What is the link to the CCMS system in eGEA?
+
+Are there links in the description of the Cornèrcard Gift Private Site application?
+
+What is the purpose of the eGEA application and what is its description?
+
+How many applications do we have in eGEA?
+
+How many processes do we have in eGEA?
+
+How many servers are there in eGEA?
+
+Where can I find the default diagram of the CCMS application with the link on eGEA?
+
+Where can I find the diagram of process xx?
+
+How many servers do we have in tier 1?
+
+What processes does the CCMS application support?
+
+What are the critical processes?
+
+What are the applications that support critical processes?
+
+Who is the application owner of the CCMS application?
+
+Who is the business owner of the CCMS application?
+
+Who is the solution architect of the CCMS system?
+
+Who should be contacted by email in case of incidents for the CCMS application?
+
+Who should be contacted by SMS in case of incidents for the CCMS application?
+
+Which applications is the user (person) ERCO the application owner of?
+
+Which Cornèr Group companies does the CCMS application support?
+
+Which Cornèr Group departments are supported by the CCMS application?
+
+Which applications process the full PAN?
+
+Which applications process personal data and are therefore in scope for privacy?
+
+Which applications process customer personal data (CID)?
+
+What is the status of the CCMS application?
+
+What is the purpose of the CCMS application? What is its description?
+
+What is the category of the CCMS application?
+
+What is the eGEA code of the CCMS application?
+
+What is the absolute ID of the CCMS application?
+
+Which applications are in scope for BCM / DRP?
+
+How is the CCMS application functionally evaluated (functional support)?
+
+How is the CCMS application technically evaluated (technical efficiency)?
+
+What is the application type of the CCMS application?
+
+What is the hosting model (cloud computing) of the CCMS application?
+
+On which site is the CCMS application installed?
+
+In which country (hosting site location) is the CCMS application installed?
+
+Is CCMS a service?
+
+What is the ITMS Status of CCMS?
+
+With which applications does CCMS interact on production systems?
+
+Which applications have a middleware role?
+
+Is the CCMS service/application critical?
+
+What are the critical applications registered in eGEA?
+
+What is the service supply modality (the type of service) of the CCMS application?
+
+What is the service level agreement (SLA) of the CCMS application?
+
+Which suppliers / vendors manage the CCMS application?
+
+In which portfolio is the CCMS application contained?
+
+Which applications are contained in the Bank Main Service portfolio?
+
+What are the application portfolios registered in eGEA?
+
+What is the RPA of the Authentic application?
+
+What is the RTA of the Authentic application?
+
+What is the RPO of the Authentic application?
+
+What is the RTO of the Authentic application?
+
+Within the scope of BCM/DRP, which applications does Authentic need to perform its role? Which BCM/DRP dependencies have been reported?
+
+Which applications are in scope for Privacy?
+
+Which applications are in scope for CID?
+
+What are the personal data subjects processed by the CCMS application?
+
+What are the personal data categories processed by the CCMS application?
+
+Which applications process personal data massively (large personal data processing)?
+
+Is CCMS an application in scope for PCI?
+
+Which applications are in scope for PCI but not in the CDE (tier 2)?
+
+Which applications are in scope for PCI (tier 1)?
+
+Which applications are out of scope for PCI?
+
+Does the CCMS application have any technical debt still to be resolved?
+
+What are the projects that have involved the CCMS application in the past?
+
+What are the technologies used by the CCMS application?
+
+Who is the vendor of the Microsoft SQL Server technology?
+
+Is the Microsoft SQL Server technology approved?
+
+What are the external links registered for the CCMS application?
+
+What are the servers used by the CCMS application?
+
+What are the production servers used by the CCMS application?
+
+What is the system environment, what is the environment of the server sntbd511.prod.corner.ch?
+
+What is the PCI Tier of the server sntbd511.prod.corner.ch?
+
+How many servers are in Tier 1?
+
+How many servers are in Tier 2?
+
+How many servers are in Tier 3?
+
+What is the description of process xxx?
+
+How many production systems are in eGEA?
+
+Who is the Solution Architect of the CCMS system?
+
+In which production systems has the CCMS application been included?
+
+What are the applications contained in the CCMS system?
+
+How many production RPAs are there?
+
+How many applications are included in the Shared RPA portfolio?
+
+What are the Sharepoint applications?
+
+What are the portfolios registered in eGEA?
+
+What are the projects in progress?
+
+How many systems (application system) are registered in eGEA?
+
+How many production systems (application system) are registered in eGEA?
+
+How many production applications (application) are registered in eGEA?
+
+How many processes are registered in eGEA?
+
+How many servers are registered in eGEA?
+
+Which on-premise production applications do not have registered servers?
+
+Which PaaS-type (cloud computing / hosting model) production applications do not have registered servers?
+
+Which production applications are without an application owner?
+
+Which production applications are without a business owner?
+
+Which production applications are without registered technologies?
+
+How many production applications are without registered processes? (perhaps there is a serious bug here)
+
+How many business application-type and critical production applications are without registered processes?
+
+How many applications are retired?
+
+What are the retired applications?
+
+Which production systems contain retired applications?
+
+Which applications are in Retirement status?
+
+Which applications are in Preparation status?
+
+How many production applications are in SaaS (cloud computing / hosting model)?
+
+How many production applications are in PaaS (cloud computing / hosting model)?
+
+How many production applications are in Hybrid mode (cloud computing / hosting model) installed with different types?
+
+Which production applications are installed as PaaS on Cornèr's Google GCP tenant?
+
+Which production applications are installed as PaaS on Cornèr's Google Azure tenant?
+
+What are the prohibited technologies?
+
+What are the accepted technologies?
+
+How many technologies are approved?
+
+Which production applications have a technical efficiency value of Poor?
+
+Which production applications have a functional support value of Poor?
