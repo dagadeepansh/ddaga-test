@@ -1,0 +1,283 @@
+id,hex_id,name,owned_library,bia_result
+7F3A091C6350CD56,7F3A091C6350CD56,2.5.12.1.1 Upgrade contract,,
+666E91EA68F83441,666E91EA68F83441,Ribilanciamento degli indici,,Critical
+EE0AF6F263AB0305,EE0AF6F263AB0305,2.1.2.1 Customer Support,,Critical
+D6C842BC680A20EE,D6C842BC680A20EE,2.1.4.2 Issues during registration,,
+BC39E490683E7BA6,BC39E490683E7BA6,2.1.4.3 Digital Login & Issues,,
+89A78AEC63573150,89A78AEC63573150,2.1.4.3.2 Forgotten/can't reset user ID/password,,
+6DFB8C64635B1B29,6DFB8C64635B1B29,2.1.4.5 Card Registration,,
+392673DC63353931,392673DC63353931,2.1.4.6 Card management & issues,,Critical
+1242531863033CE0,1242531863033CE0,2.1.4.7 E-Wallet activation,,
+12427B7A63036372,12427B7A63036372,2.1.4.8 E-Wallet issues,,
+3F80B3B965DC9E09,3F80B3B965DC9E09,2.1.4.9 Clanq management,,
+D842E30D62FD57A9,D842E30D62FD57A9,2.3.2.1 Rewards Program & Diners airport lounges,,
+8245ACB262FC7BBA,8245ACB262FC7BBA,2.3.2.5 Recommendation program,,
+B212E4E462F06E38,B212E4E462F06E38,2.5.13.2 Address management,,
+48155B1662FB88FF,48155B1662FB88FF,2.5.13.3 Contact details management,,Critical
+75D3CE4A637CE74F,75D3CE4A637CE74F,2.5.13.4 Transfer abroad,,
+4815705162FBBF07,4815705162FBBF07,2.5.13.5 Retention & Winback,,Critical
+2CE5BB03637B2782,2CE5BB03637B2782,2.5.13.6 Client Relationship Closure,,
+77B87C81630C0DCD,77B87C81630C0DCD,2.6.2.1 Installment management,,
+77B8AEA3630C678A,77B8AEA3630C678A,2.6.2.2 Insurance management,,
+011F76C6636A99C3,011F76C6636A99C3,2.6.2.2.1 Initial check for insurance activation/coverage change,,
+570F6AF862F370FA,570F6AF862F370FA,2.6.4.1 Complaints GILC,,Critical
+E38AE67163903463,E38AE67163903463,3.2.1.1 Balance & Transactions,,Critical
+F5425FA0638FBBCC,F5425FA0638FBBCC,3.2.1.2 PIN,,
+B8B9C3BC62EC77A9,B8B9C3BC62EC77A9,3.2.1.3 3D Secure,,Critical
+7F3AFFE1634FAD92,7F3AFFE1634FAD92,3.2.1.3.2 3DS SMS Code not received,,Critical
+7F3A08EA6350CC3A,7F3A08EA6350CC3A,3.2.1.3.3 3DS Other issues,,Critical
+B212193462F19751,B212193462F19751,3.2.1.4 Authorisation and settlement,,Critical
+4816C28D62FB1AD3,4816C28D62FB1AD3,3.2.2.1 Statement,,Critical
+061E6E78630780D5,061E6E78630780D5,3.2.2.3 Tax declaration & service management,,
+F54285F6638FDFEE,F54285F6638FDFEE,3.2.2.4 Manual Adjustments,,Critical
+E36B505065FCAC1A,E36B505065FCAC1A,3.2.2.6 Payment methods,,Critical
+ED6E1B80637264EF,ED6E1B80637264EF,3.2.3.3 Guarantee management,,
+6250886D6304802C,6250886D6304802C,3.2.4.3 Reissuing & Replacement,,Critical
+6DFB9635635B3A34,6DFB9635635B3A34,3.2.4.3.2 Change in picturecard - Front,,
+53855E2B63523B94,53855E2B63523B94,3.2.5.2 Bankruptcy Handling,,
+F5426C48638FCB76,F5426C48638FCB76,3.2.5.3 Deceased Handling,,
+49919605639065AA,49919605639065AA,3.2.5.4 Manual Treatment,,
+58D7A787636B89F6,58D7A787636B89F6,3.2.5.5 Role change from supplementary/tenant to client principal,,
+68A7C8F863C651B8,68A7C8F863C651B8,3.2.6.1 Security issues & disputes management,,Critical
+771AD9B85F3BF04B,771AD9B85F3BF04B,3.5.7.1  Derivatives Analysis and Selection [Analisi e Selezione Prodotti Strutturati],,
+F6F446A95F315DFF,F6F446A95F315DFF,1.2.3.2 Banking Counterparty Relationship Management [Gestione Relazione Controparte Bancaria],,
+F6F4470B5F315E71,F6F4470B5F315E71,1.2.3.3 Closing Banking Counterparty Account [Chiusura Relazione Controparte Bancaria],,Critical
+2830BC1B5F3AB8C8,2830BC1B5F3AB8C8,"3.1.1.1 Loan Concession, Modification and Revocation [Apertura, Modifica e Revoca Crediti]",,Critical
+2830BC495F3AB93A,2830BC495F3AB93A,3.1.1.2 Credit Risk Control [Controllo Rischio di Credito],,
+2830BC8D5F3AB9B7,2830BC8D5F3AB9B7,3.1.1.3 Credit Management [Gestione Crediti],,
+2093234661374497,2093234661374497,3.1.1.4 Granting of shipping loans [Concessione di crediti navali],,
+FBD7FC6C617851AA,FBD7FC6C617851AA,3.1.10.1 Granting of Lombard loans [Concessione del credito Lombard],,
+FBD7FCAB61785228,FBD7FCAB61785228,3.1.10.2 Monitoring of Lombard loans [Monitoraggio del credito Lombard],,Critical
+8E5990E960A75865,8E5990E960A75865,3.1.11.1 Granting of mortgage loan [Concessione del credito ipotecario],,
+A1BC06C160CB86EC,A1BC06C160CB86EC,3.1.11.2 Modification of mortgage loan [Modifica del credito ipotecario],,
+0C3C0E5A5F8418B0,0C3C0E5A5F8418B0,3.1.13.3 Withdrawal of pension benefits from Cornèr3 [Ritiro delle prestazioni previdenziali Cornèr3],,Critical
+DFB2FD1161257458,DFB2FD1161257458,3.11.1.1 Recovery Crediti [Credit Recovery],,Critical
+F6F41F9F5F31407A,F6F41F9F5F31407A,1.2.3.1 Onboarding of Banking Counterparty [Apertura Relazione Controparte Bancaria],,Critical
+771AC0EA5F3BC715,771AC0EA5F3BC715,2.1.1.1 Cash General - Front Office [Operazioni di Cassa - Front Office],,Critical
+2830AD3D5F3A9E41,2830AD3D5F3A9E41,2.5.3.2 Customer Bank Relationship Closure [Chiusura Relazione Cliente],,Critical
+E40C4108609151A5,E40C4108609151A5,2.5.3.3 Cornèrtrader relationship onboarding [Apertura relazione Cornèrtrader],,Critical
+A1D9C984601A379F,A1D9C984601A379F,2.5.4.1 Contract Definition and Relationship Opening with Financial Intermediaries [Definizione Contratto e Apertura Relazione con Intermediari Finanziari],,
+A1D9CA5A601A381C,A1D9CA5A601A381C,2.5.4.2 Relationship Management with Financial Intermediaries [Gestione della relazione con intermediari finanziari],,
+0C3C0D675F8417CA,0C3C0D675F8417CA,3.1.13.1 Third Pillar Cornèr (Cornèr3 ) Subscription [Sottoscrizione Cornèr Terzo Pilastro (Cornèr3)],,
+0B452470692429BB,0B452470692429BB,3.1.13.4 Riscatti retroattivi,,Critical
+771AE6745F3BF85A,771AE6745F3BF85A,3.4.3.3 Mandate Events Management [Gestione Eventi su Mandati Patrimoniali],,
+771ADB0B5F3BF3CB,771ADB0B5F3BF3CB,3.4.3.4 Mandate Closure [Chiusura Mandato],,
+EAFFED7F5FBB5F90,EAFFED7F5FBB5F90,3.5.5.1 Suitability Checking - New Relation [Valutazione di idoneità per le controparti bancarie e broker - Apertura Relazione],,Critical
+826BACC05FD332FB,826BACC05FD332FB,3.5.5.2 Suitability Checking - Annual Review [Valutazione di idoneità per le controparti bancarie e broker – Revisione annuale delle controparti a rischio],,
+259FA53C5FD7199B,259FA53C5FD7199B,3.5.5.3 Suitability Checking - Credit line modification [Valutazione di idoneità per le controparti bancarie e broker – Modifica linea di credito],,
+C9B739F15F3D69A9,C9B739F15F3D69A9,3.6.11.1 Corporate Actions [Corporate Events],,Critical
+C9B73B355F3D6AE1,C9B73B355F3D6AE1,3.6.11.2 Corporate Actions: Administrative Events [Corporate Events: Eventi Amministrativi],,Critical
+0D4E41EC5F7C521B,0D4E41EC5F7C521B,3.6.7.1 Trade Confirmation - Security Delivery [Esecuzione Ordini e contabilizzazione],,Critical
+F56F51F668936C14,F56F51F668936C14,3.6.9.5 Transaction Reporting,,Critical
+0C3CB8F65F847945,0C3CB8F65F847945,3.9.5.1 Cheque cash in [Incasso Assegni],,Critical
+43D2BEEE5F85FFD6,43D2BEEE5F85FFD6,5.10.2.1 Document Archival [Archiviazione Documenti],,
+43D2BF2B5F850048,43D2BF2B5F850048,5.10.2.2 Document Destruction [Distruzione Documenti],,
+D27F086168650EC4,D27F086168650EC4,Raccolta ordini di pagamento,,Critical
+F56F44FC689364B3,F56F44FC689364B3,Transaction Reporting SIX,,Critical
+C1DBD34D63052D99,C1DBD34D63052D99,2.1.4.2 Login & browsing issues,,
+8245D3F262FCAE39,8245D3F262FCAE39,2.3.1.1 Handling of Prospect/Client (OLD),,
+CFA6E8D4635B6813,CFA6E8D4635B6813,2.3.1.2 Prospect/Customer Campaign Management (OLD),,
+EF8B4CB4634D6E58,EF8B4CB4634D6E58,3.2.2.2 Incoming Payments - OLD,,
+218072B8635A28CF,218072B8635A28CF,3.2.3.2 New guarantee contract/amount change of existing guarantee - OLD,,
+1242285F63030FD1,1242285F63030FD1,Digital registration & issues,,
+F95AFA135EC46BDB,F95AFA135EC46BDB,2.1.11.1 Banknotes not withdrawn Management [Gestione Biglietti non ritirati],,Critical
+DE21E09C61975220,DE21E09C61975220,2.2.2.1 Collection of payment orders [Raccolta ordini di pagamento],,Critical
+A1D9CAB4601A3890,A1D9CAB4601A3890,2.5.4.3 Fee Management of Financial Intermediaries [Gestione della retribuzione di intermediari finanziari],,Critical
+2C182D585F777562,2C182D585F777562,2.6.4 Complaints Management [Gestione dei Reclami],,Critical
+0C3C0DCD5F84183E,0C3C0DCD5F84183E,3.1.13.2 Deposits on Cornèr3 Account [Versamenti su conto Cornèr3],,Critical
+23F677B55F802F97,23F677B55F802F97,3.1.3.2 Customer Accounts and Deposits Closure [Chiusura Conti e Depositi della clientela],,Critical
+2C41497E5E7180BC,2C41497E5E7180BC,3.9.1.1 Incoming Payments [Pagamenti in Entrata],,Critical
+2C41498F5E71812F,2C41498F5E71812F,3.9.1.2 Outgoing Payments [Pagamenti in Uscita],,Critical
+D24A36215F246A4A,D24A36215F246A4A,5.2.7.2 Passive Billing [Fatturazione Passiva],,Critical
+751F75B15E8C8056,751F75B15E8C8056,5.5.3.1 'Nostro' Accounts and Deposits reconciliation [Riconciliazioni Conti e Depositi 'Nostro'],,Critical
+B86DDBF36576995D,B86DDBF36576995D,2.5.12.3 Frictionless Onboarding,,Critical
+06380BEB68C93DC8,06380BEB68C93DC8,2.5.12.3 Frictionless Onboarding (Duplicate),,Critical
+D3212C5366707F20,D3212C5366707F20,DRB Onboarding,,
+C0EB2EE862711663,C0EB2EE862711663,VOLTA // Passive Billing [Fatturazione passiva],,
+142D977A66E952A1,142D977A66E952A1,2.5.12.4 DRB - Onboarding,,Critical
+ACF6BC2B660B1B0E,ACF6BC2B660B1B0E,3.2.2.2 Incoming Payments,,Critical
+84B3A9E066E26984,84B3A9E066E26984,OLD - DRB First Payment Check-1,,
+12C235A1632C5A10,12C235A1632C5A10,2.5.11.1 New Onboarding Business,,
+4CB9CD326329ADAF,4CB9CD326329ADAF,2.5.12.1 New onboarding Direct,,
+4CB9B4AA632972EA,4CB9B4AA632972EA,2.5.12.1.3 Onboarding_Exception handling_Dirette,,
+450346EA5F3A2547,450346EA5F3A2547,2.5.3.1 Customer Bank Relationship Opening [Apertura Relazione Cliente],,
+2CC560D7604F1B0B,2CC560D7604F1B0B,3.6.9.1 SRDII Reporting [Reporting SRDII],,Critical
+2CC56229604F1C7C,2CC56229604F1C7C,3.6.9.4 IRS FATCA reporting [Reporting IRS FATCA],,Critical
+CE06FFBF60414AFF,CE06FFBF60414AFF,5.2.3.1 Enablement and Monitoring of Key Employees [Abilitazione e monitoraggio dei Key Employees],,
+0C3CBBF45F84882D,0C3CBBF45F84882D,5.6.12.1 Selection of Employees [Selezione dei Collaboratori],,
+EBC481955F8820EB,EBC481955F8820EB,5.5.1.4 Preparation of statistics [Predisposizione statistiche],,
+48A461FB65BB1272,48A461FB65BB1272,3.2.5.1 Pre-legal Collection,,
+BE5E44A05F7B4625,BE5E44A05F7B4625,1.3.8.1 Financial Instrument Opening [Apertura Anagrafica Strumenti Finanziari],,Critical
+BE5E44B75F7B4697,BE5E44B75F7B4697,1.3.8.2 Financial Instrument Update [Aggiornamento Anagrafica Strumenti Finanziari],,Critical
+BE5E44CD5F7B4709,BE5E44CD5F7B4709,1.3.8.3 Financial Instrument Closing [Chiusura Anagrafica Strumenti Finanziari],,Critical
+A2B1FAC463AE8542,A2B1FAC463AE8542,3.2.6.2 Collaboration (Dispute chargeback),,
+A2B1C74563AE5129,A2B1C74563AE5129,3.2.6.3 Allocation,,
+3F9BACA963AD21D7,3F9BACA963AD21D7,3.2.6.4 Outgoing Pre-Compliance,,
+3F9BB02063AD389D,3F9BB02063AD389D,3.2.6.5 Incoming Pre-Compliance,,
+DCC14BF860F04826,DCC14BF860F04826,3.11.6.1 Treatment of dormant relationship [Trattamento relazioni dormienti],,
+24E127355FBD4724,24E127355FBD4724,3.6.1.1 New Fund Creation [Creazione di un Nuovo Fondo],,
+54EDC6D9678F8BEF,54EDC6D9678F8BEF,2.3.4.1 Legal Comunication Sending Requests,,
+0C3CBB4C5F8485C9,0C3CBB4C5F8485C9,5.6.7 Employee Payroll and Incentives [Elaborazione degli stipendi],,
+0D4E42045F7C528D,0D4E42045F7C528D,3.6.7.2 Security Transfer [Trasferimento Titoli],,Critical
+F66EFA31602B18B5,F66EFA31602B18B5,"3.9.6.1 Supply of Banknotes, coins and physical precious metals [Approvvigionamento di BBCA, monete e metalli preziosi fisici]",,Critical
+4EF950135F5A625F,4EF950135F5A625F,4.1.1.1 Daily Treasury Activities [Gestione Giornaliera della Liquidità],,Critical
+836297A065C44BD2,836297A065C44BD2,3.2.5.1.1 Credit Risk Assessment (CRA),,
+0D754C2462F23A03,0D754C2462F23A03,2.5.13.1 Anagraphic data management,,
+4A046BE867C919F0,4A046BE867C919F0,4.4.5.1 Customer Due Diligence,,
+4A046F2267C91AD9,4A046F2267C91AD9,4.4.5.2 Suspicious transaction check,,
+6FCB813C657980C6,6FCB813C657980C6,2.5.12.3.3 Due Dilligence/ assessment,,
+E8DB6A4663518D10,E8DB6A4663518D10,2.5.10.1 New Onboarding FI,,
+0FBF455260C392C3,0FBF455260C392C3,3.4.1.1 Investment Process [Processo di investimento],,
+116A13F35F871538,116A13F35F871538,5.5.1.3 Financial Statement [Predisposizione Rapporto Annuale],,Critical
+6CC46D3E5ECE3C5E,6CC46D3E5ECE3C5E,2.1.13.1 Banknotes Supply to the Bank's Branches [Approvvigionamento BBCA a Succursali e Agenzie],,Critical
+23F677985F802F24,23F677985F802F24,3.1.3.1 Customer Accounts and Deposits Opening [Apertura Conti e Depositi della clientela],,
+C9B7F5475F3C4213,C9B7F5475F3C4213,3.5.12.1 Market Order Execution,,Critical
+24E126F05FBD46B2,24E126F05FBD46B2,3.6.1.3 Luxembourg Funds Management [Gestione Fondi di Diritto Lussemburghese],,
+24FA25EB6089517C,24FA25EB6089517C,"3.6.8.1 Securities Fails Processing [Storni, annullamenti e rettifiche operazioni di mercato]",,Critical
+CE5C38DF68DD3122,CE5C38DF68DD3122,4.1.1.2 Proprietary portfolio management [Gestione del Portafoglio di proprietà],,
+405FB1685F6C4C05,405FB1685F6C4C05,4.1.2.1 Financing through Pfandbriefbank [Finanziamenti mediante Pfandbriefbank],,
+1FBF20EB5F6A664A,1FBF20EB5F6A664A,4.1.7.1 Financing through REPO with Swiss National Bank [Finanziamento mediante REPO con Banca Nazionale Svizzera],,
+BE6AC8BA68A24AA1,BE6AC8BA68A24AA1,CBITA Core banking process,,
+9B83C65C636C52A0,9B83C65C636C52A0,4.2.9.1 Fraud Prevention Strategies [Strategie di prevenzione frodi],,Critical
+6FCB884A65799614,6FCB884A65799614,2.5.12.3.4 Fullfillment,,Critical
+142D977A66E95267,142D977A66E95267,2.5.12.4.3 DRB - Finalize DRB Package Activation,,Critical
+DA9AE97566EB1161,DA9AE97566EB1161,OLD - DRB Debit Card Activation,,
+92CFEC8765820F5D,92CFEC8765820F5D,Alert Management,,
+3A0753B162835A5B,3A0753B162835A5B,IT Strategy Alignment,,
+92CFEC9B65820FBF,92CFEC9B65820FBF,Manage Service Monitoring,,
+4EF47A48689462B8,4EF47A48689462B8,Identification and Management of staff subject to recording obligations,,
+ACF6D102660B1FC8,ACF6D102660B1FC8,2.5.10.1.1 - FI Exception Handling,,
+48944E3C619F10ED,48944E3C619F10ED,4.2.12.1 Loss Data Collection,,Critical
+1375178B60EC41EF,1375178B60EC41EF,5.5.1.2 Accounting Events Governance [Governance Eventi Contabili],,Critical
+3F8D73A468B579F9,3F8D73A468B579F9,5.5.4.3 VAT management [Gestione IVA],,
+A760F6CC63E057E1,A760F6CC63E057E1,2.3.2.3 Loyalty Program - Physical vouchers,,
+A760AFA863E030B5,A760AFA863E030B5,2.3.2.4 Loyalty Program - Digital vouchers,,
+97ECB9CA680053AB,97ECB9CA680053AB,3.5.12.2 Fiduciary placements from CBCH,,
+9FEDF33164E58E99,9FEDF33164E58E99,Application Assessment,,
+3C384F4964EC4BE9,3C384F4964EC4BE9,Application Landscape Management,,
+A2DC137B655E920F,A2DC137B655E920F,Application Management,,
+A2DC0DFE655E83E4,A2DC0DFE655E83E4,Application System Management,,
+9FEDF30F64E58E3D,9FEDF30F64E58E3D,Architecture Review Board,,
+A060A42765A67C33,A060A42765A67C33,Create Solution Proposal,,
+D476D63B5EC46851,D476D63B5EC46851,Deploy Solution,,
+1F97492D65709D4D,1F97492D65709D4D,Inventory Assets Discovery,,
+1C0B1E7364675350,1C0B1E7364675350,Manage Change,,
+A2DC1B7C655EA540,A2DC1B7C655EA540,Portfolio and Maps Management,,
+8D809130672035A3,8D809130672035A3,Share Design & Agree on Solution,,
+9FEDF35764E58EF6,9FEDF35764E58EF6,Strategic Architecture Management,,
+3C553E065EFC1078,3C553E065EFC1078,5.2.7.1 Active Billing [Fatturazione Attiva],,
+86D987445F225BE2,86D987445F225BE2,5.5.1.1 Consolidated Financial Statement Preparation [Predisposizione Bilancio Consolidato],,
+3029309E5F0F2553,3029309E5F0F2553,5.5.3.2 Temporary Account Reconciliation [Riconciliazioni Conti Temporanei],,
+771ADADF5F3BF358,771ADADF5F3BF358,3.4.3.2 Investment Proposal [Proposta di Investimento],,
+EA3FEF1261A553A1,EA3FEF1261A553A1,3.4.4.1 Cornèrtrader lead treatment [Gestione lead Cornèrtrader],,
+075D1C6C5F9849DC,075D1C6C5F9849DC,2.1.4.1 Digital Channels activation [Abilitazione ai Canali Digitali],,
+075D1CB55F984A4F,075D1CB55F984A4F,2.1.4.2 Digital Channels configuration modification [Modifica di configurazione dei Canali Digitali],,
+D24AE19D5F2340BA,D24AE19D5F2340BA,3.3.7.1 Customer Tax Reporting [Tax Reporting Clientela],,
+7293789865CC47AF,7293789865CC47AF,3.2.6.5.6 Loss reconciliation for fraud cases,,Critical
+094E72075FBE9D74,094E72075FBE9D74,5.6.6.1 Employee Evaluation [Valutazione dei Collaboratori],,
+D24A107A5F2452F9,D24A107A5F2452F9,5.5.1.2 Pension Fund Financial Statement Preparation [Predisposizione Bilancio Fondo di Previdenza],,
+82B9837D61965DC4,82B9837D61965DC4,2.5.12 Market order receival [Raccolta ordini di borsa],,
+771ADA915F3BF2CB,771ADA915F3BF2CB,3.4.3.1 Mandate Definition [Definizione Mandato],,
+58D7C5CC636BA40B,58D7C5CC636BA40B,2.5.10.2 New Onboarding Debit,,
+E9285DF6650842B2,E9285DF6650842B2,2.5.11.3 Creation of VPAN personal & business,,Critical
+10140D996351AAD4,10140D996351AAD4,2.5.7.1 Partner Onboarding FI,,
+5E27D4CD5F431026,5E27D4CD5F431026,2.2.1.1 Signature Check [Controllo Firme],,
+0C3CBC405F848911,0C3CBC405F848911,5.6.12.3 Internal transfer of Employees [Trasferimento Interno dei Collaboratori],,
+817E970E654C363A,817E970E654C363A,2.5.12.2 New Onboarding Clanq,,
+142D977B66E952E1,142D977B66E952E1,2.5.12.4.4 DRB - CCMS Data update and check for DRB,,
+101435FA6351F20E,101435FA6351F20E,2.5.7.2 Partner Migration,,
+8FCA9E0966DE2338,8FCA9E0966DE2338,DRB - Onboarding existing customers,,
+84B384F766E2234D,84B384F766E2234D,DRB - Onboarding existing customers (Bank Transfer),,
+84B390C566E25124,84B390C566E25124,OLD - DRB - Onboarding,,
+0C3C7B0E5F84687D,0C3C7B0E5F84687D,3.11.10.1 Customer Position [Titoli senza valore],,
+2CC561D0604F1C08,2CC561D0604F1C08,3.6.9.3 US Withholding tax reporting [Dichiarazione per ritenuta fiscale US],,
+0638293868C981A3,0638293868C981A3,2.5.12.3.5 - Exception handling assessment - Natural (3.15),,
+24E1279B5FBD4796,24E1279B5FBD4796,3.6.1.2 Funds Distribution Agreement Subscription [Sottoscrizione Accordo di Distribuzione Fondi],,
+E3F0E4C0618B77B8,E3F0E4C0618B77B8,3.6.1.4 Swiss Funds Management [Gestione Fondi di Diritto Svizzero],,
+6E746F6860BF035D,6E746F6860BF035D,3.7.3.1 Deliberation and use of trade finance lines [Delibera e utilizzo delle linee trade finance],,
+20D33B1E60DC1990,20D33B1E60DC1990,3.7.3.2 Daily monitoring of trade finance lines [Monitoraggio giornaliero delle linee trade finance],,
+0C3CBC175F84889F,0C3CBC175F84889F,5.6.12.2 Appointment of Employees [Assunzione dei Collaboratori],,
+FB0216C565BA13BA,FB0216C565BA13BA,Deploy Release,,
+F8D524A661571970,F8D524A661571970,4.4.3.1 Risk Committee Governance [Governance comitati di rischio],,
+31C23C66609A533D,31C23C66609A533D,5.2.2.2 Audit execution [Audit execution],,
+4D3953A260E84096,4D3953A260E84096,5.2.6.1 Procurement - Cornèrcard [Procurement - Cornèrcard],,
+28AE499E61122ECB,28AE499E61122ECB,5.2.6.2 Contracts - Cornèrcard [Contratti Cornèrcard],,
+771AD9455F3BEFD7,771AD9455F3BEFD7,3.4.2.1 Investment Opportunities Identification [Identificazione Temi d'Investimento],,
+F59709CB641C548C,F59709CB641C548C,IT Critical Vendor Assessment,,
+89A7E13463578561,89A7E13463578561,2.1.4.7.1 Not possible to complete the digitisation,,
+89A7FDDF63579EF5,89A7FDDF63579EF5,2.1.4.8.1 Card not displayed in the Wallet,,
+89A7019C6358A7E5,89A7019C6358A7E5,2.1.4.8.2 Not possible to make transactions with the token,,
+DDD63177666C515E,DDD63177666C515E,2.3.1.1 Campaign Management (existing client),,
+7B27DA18633ABE12,7B27DA18633ABE12,2.3.2.2 Cashback,,
+FCF5FE3268AB0D17,FCF5FE3268AB0D17,2.3.2.6 Loyalty Program upgrades,,
+ED6E52FC6372B489,ED6E52FC6372B489,2.5.10.2.1 Onboarding Debit Exception Handling,,
+FC31650A6387AC98,FC31650A6387AC98,2.5.11.2 Mass Issuance,,
+142D977B66E952F9,142D977B66E952F9,2.5.12.4.2 DRB Package creation [BLOCKED]-1,,
+5428988B68CA2BEB,5428988B68CA2BEB,2.5.13.8.1 NEW Undelivered correspondence - Letter group Cards TO BE Proposal,,
+AC4CDE9668E4B56A,AC4CDE9668E4B56A,2.5.13.8.2 NEW Undelivered correspondence - Letter group Statements TO BE Proposal,,
+7F3AFADC634FA1AB,7F3AFADC634FA1AB,3.2.1.3.1. 3DS Activation,,
+7B25897163EF66F8,7B25897163EF66F8,3.2.2.5 Mass top-up,,
+6250A93F6304AE7A,6250A93F6304AE7A,3.2.4.3.1 Card or plastic replacement,,
+6D04725C66EA6F63,6D04725C66EA6F63,OLD - DRB Person Creation,,
+2CC5616C604F1B85,2CC5616C604F1B85,3.6.9.2 Reporting to US markets and regulators of significant futures and options positions [Reporting alle borse e alle autorità di vigilanza USA di posizioni rilevanti su futures e opzioni],,
+31C232A2609A5155,31C232A2609A5155,5.2.2.1 Internal audit annual planning [Pianificazione annuale revisione interna],,
+31C23CBE609A53BD,31C23CBE609A53BD,5.2.2.3 Audit tracking system [Audit tracking system],,
+0D4E2A9B5F7C34A6,0D4E2A9B5F7C34A6,1.4.7.1 Special Pricing Conditions [Richiesta Tariffe Personalizzate],,
+075D1D9E5F984AC1,075D1D9E5F984AC1,2.1.4.3 Digital Channels deactivation [Disabilitazione ai Canali Digitali],,
+0C3CB9185F8479B7,0C3CB9185F8479B7,3.9.5.2 Cheque Emission [Emissione Assegni],,Critical
+0C3CB93D5F847A29,0C3CB93D5F847A29,3.9.5.3 Cheque Payments [Pagamento Assegni],,Critical
+F144091B6282490E,F144091B6282490E,"Define Scope, MVP and Increment",,
+F144090D628247F0,F144090D628247F0,Establish Governance,,
+F14413B562825BF2,F14413B562825BF2,Estimate Costs,,
+05142390657C232F,05142390657C232F,IT Budgeting Capex-Opex-Salary,,
+F1440924628249D5,F1440924628249D5,Perform Go-Live & After Care,,
+4A055AAF67935C6B,4A055AAF67935C6B,4.2.12.4 Risk Evaluation,,
+595FAB4B631088B9,595FAB4B631088B9,5.5.4.2 VAT Due management [Gestione IVA Dovuta],,Critical
+051423C5657C2464,051423C5657C2464,IT Invoice Management,,
+8EA9E02C67BDA130,8EA9E02C67BDA130,Defect Management,,
+BABD32A567BF636D,BABD32A567BF636D,Go-Live Approval,,
+8EA9E70167BDBBD7,8EA9E70167BDBBD7,Test Management,,
+D6C84248680A1DED,D6C84248680A1DED,2.1.4.1 Digital Registration,,
+6DFB967A635B3C72,6DFB967A635B3C72,3.2.4.3.3 Design/eypiry date or change in picturecard - Back Office,,
+92CFF45F65823231,92CFF45F65823231,Define Plan & Allocate Resources,,
+F144093562824AA3,F144093562824AA3,"Monitor, Manage, Change, Report",,
+6D047A0266EA9E44,6D047A0266EA9E44,OLD - DRB Package creation [ACTIVE],,
+DDDDE1E166E37928,DDDDE1E166E37928,OLD - DRB Package creation [BLOCKED],,
+84B3B23666E26F32,84B3B23666E26F32,OLD - DRB UNLOCK DRB Banks Assets (remove manual lock) and accounting of first payment,,
+1848A26D6356EE2E,1848A26D6356EE2E,2.1.4.3.1 Account blocked,,
+F95AFE045EC475C1,F95AFE045EC475C1,2.1.11.2  ATM Loading and Assets Verification [Riempimento Contante e Verifica Consistenza DAB],,Critical
+6CC479315ECE4673,6CC479315ECE4673,2.1.12.1  Banknotes Supply within the Bank's branches [Approvvigionamento BBCA all'interno delle Dipendenze],,Critical
+E42EE4A85EC309BA,E42EE4A85EC309BA,2.1.6.1 Daily ATM Check and Accounting [Verifica e Contabilizzazione Giornaliera DAB],,Critical
+20D32C3560DC0ECD,20D32C3560DC0ECD,"3.11.4.1 Request and execution of cancellations and reaccounting on customer accounts [Richiesta ed esecuzione di storni, annullamenti e rettifiche contabili sui conti della clientela]",,Critical
+051423A8657C2397,051423A8657C2397,IT Forecasting Capex-Opex-Salary,,
+75EF858361481EC7,75EF858361481EC7,"5.1.2.1 BOT request, analysis and development [Richiesta, analisi e sviluppo BOT]",,
+63836E6368772E0B,63836E6368772E0B,Processo di Demand Management,,
+1F9748DE65709B97,1F9748DE65709B97,Certificate Issuing,,
+1F9748F165709BF3,1F9748F165709BF3,Certificate Renewal and Revokation,,
+E4B931FC64948937,E4B931FC64948937,Deactivation/Revocation,,
+E4B931E86494887F,E4B931E86494887F,Generation,,
+3B2E46C1645B264C,3B2E46C1645B264C,Incident Resolution,,
+538562DB63524A9F,538562DB63524A9F,Manage Hardening Exception Request,,
+5B1ABB7B63466AA0,5B1ABB7B63466AA0,Manage Patching Exception Request,,
+7FF099D666174B9F,7FF099D666174B9F,Problem Resolution,,
+5B1ABB3B63466976,5B1ABB3B63466976,Server Provisioning,,
+AD29DF7E60A37186,AD29DF7E60A37186,2.5.1 Administrative pending management [Gestione pendenze amministrative],,
+48155A3E62FB7841,48155A3E62FB7841,5.11.1.1 GILC DWH Management,,
+EFE54F6764E3832D,EFE54F6764E3832D,Request Submission,,
+CE2C4A90656F6BE0,CE2C4A90656F6BE0,2.5.14.1 èCash management,,
+8EC2E6E768AE7BA5,8EC2E6E768AE7BA5,2.3.2.7 Loyalty Program downgrades,,
+01712FF9645A3105,01712FF9645A3105,5.5.6.1 Inventory of physical vouchers,,
+8F719088600A0A71,8F719088600A0A71,5.10.2.3 Document Consultation [Consultazione Documenti],,
+8FCAA19166DE2649,8FCAA19166DE2649,DRB - Promote DRB Package (existing customers),,
+AD19083C65B1937E,AD19083C65B1937E,Actual recording,,
+3C384A6364EC2A32,3C384A6364EC2A32,Architecture Change Assessment,,
+42C05E4B656482FF,42C05E4B656482FF,Portfolio Changes Management,,
+42C05E5565648353,42C05E5565648353,Portfolio Health Status & Reporting,,
+42C05E41656482A4,42C05E41656482A4,Portfolio Setup,,
+EFE54FAE64E38404,EFE54FAE64E38404,Request Best-Fit,,
+EFE54FC264E3845F,EFE54FC264E3845F,Request Decision,,
+EFE54F7764E38382,EFE54F7764E38382,Request Value & Cost Estimation,,
+AD19083365B19329,AD19083365B19329,Resource Allocation & Replanning,,
+632C7AFE65F033EA,632C7AFE65F033EA,2.5.10.3 New Onboarding guarantee FI,,
+84B3916366E2540F,84B3916366E2540F,OLD - DRB - Auto Ident Unattended-1,,
+84B3A42866E26806,84B3A42866E26806,OLD -DRB - Attended Auto Ident recovery,,

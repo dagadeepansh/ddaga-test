@@ -1,0 +1,20 @@
+id,hex_id,name,egea_code,category,type,ai_ml_functionality_available,ai_ml_in_production,bcm_scope,cid,cloud_computing,creation_date,critical_service,current_state,description,url,functional_support,itms_status,large_personal_data_processing,modification_date,pan,pci_scope,privacy,rpa,rpo,rta,rto,swift_csp_scope,technology_efficiency,technology_compliance,internal_diagram,multi_tenancy,priority_diagram,pci_exclusion,from_application_id,from_application_hex_id,from_application_name,to_application_id,to_application_hex_id,to_application_name
+D5TQnuceSTpF,69D16E315CA23F37,CCMS,eGEA-10075,Business Application,In House Application,No,No,Yes,Yes,PaaS,4/1/2019,Yes,Production,"CCMS: Cornèr Card Management System 
+
+Application developed by Vestigo that includes core CMS (short for Card Management System) functionalities (COL - Collection Management, COM - Communication, CFG - Configuration Management, CCS - Customer Care Services, DIS - Disputes Management, FEE - Fee Management, FIN - Financials Management, GSF - General Supporting Functions, IPE - Issuer Personalization, AIM - Issuing Account Management, ICA - Issuing Contract Management, ILM - Issuing Limit Management, ISM - Issuing Status Management, LOY - Loyalty Management, NET - Network Management, PAM - Partner Management , PAY - Payments, PIF - Person Information File, TRX - Transaction Management, VAS - Value Added Services)
+ 
+Documentation: 
+https://confluence.ci.prod.corner.local/display/PDSCCMS/CCMS+API+List
+https://confluence.ci.prod.corner.local/display/PDSCCMS/CCMS+Microservices+List
+https://confluence.ci.prod.corner.local/display/PDSCCMS/Microservices
+https://confluence.ci.prod.corner.local/display/PDSCCMS/CCMS+HL+Component+Overview
+https://confluence.ci.prod.corner.local/display/PDSCCMS/CCMS+oAuth2+Authorizations
+https://confluence.ci.prod.corner.local/display/PDSCCMS/CCMS+REST+Interface+Standards
+https://confluence.ci.prod.corner.local/display/PDSCCMS/CCMS+Kafka+Interfaces+Standards
+https://confluence.ci.prod.corner.local/display/PDSCCMS/CCMS+MQ+Interface+Standards
+https://confluence.ci.prod.corner.local/display/PDSCCMS/Server+Lists
+https://confluence.ci.prod.corner.local/display/PDSCCMS/Single+task+and+hits
+https://confluence.ci.prod.corner.local/pages/viewpage.action?pageId=178920171 – Technical Design
+https://confluence.ci.prod.corner.local/display/CCMSPRJ/NFR+LLA – tutta la documentazione tecnica ONE
+https://confluence.ci.prod.corner.local/pages/viewpage.action?spaceKey=CTP&title=Technical+Analysis --> CCMS on GCP: Infrastructure Technical Analysis
+ ",https://egea.services.corner.group/egeaportal/pages/69D16E315CA23F37.htm,Good,Service,Yes,8/6/2025,Yes,In Scope CDE (Cardholder Data Environment),Yes,0,0,,4,No,Good,Approved,485F4B8E5D5D7B90,L3 Shared Application Container,https://egea.services.corner.group/egeaportal/images/ECEB270C63C5427A.svg,No,bjx2sYngSneF,0BBB18B65CAB3E8C,Authentic,69D16E315CA23F37,69D16E315CA23F37,CCMS
