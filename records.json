@@ -1,0 +1,354 @@
+﻿[
+  {
+    "nodes": [
+      {
+        "identity": -110,
+        "labels": [
+          "Datasource"
+        ],
+        "properties": {
+          "name": "Datasource",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=23, name='constraint_cc579488', type='UNIQUENESS', schema=(:Datasource {id}), ownedIndex=22 )"
+          ]
+        },
+        "elementId": "-110"
+      },
+      {
+        "identity": -105,
+        "labels": [
+          "Data_subject"
+        ],
+        "properties": {
+          "name": "Data_subject",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=13, name='constraint_2faa821d', type='UNIQUENESS', schema=(:Data_subject {id}), ownedIndex=12 )"
+          ]
+        },
+        "elementId": "-105"
+      },
+      {
+        "identity": -102,
+        "labels": [
+          "Organization_unit"
+        ],
+        "properties": {
+          "name": "Organization_unit",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=7, name='constraint_cd7775f7', type='UNIQUENESS', schema=(:Organization_unit {id}), ownedIndex=6 )"
+          ]
+        },
+        "elementId": "-102"
+      },
+      {
+        "identity": -106,
+        "labels": [
+          "Server"
+        ],
+        "properties": {
+          "name": "Server",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=15, name='constraint_446cbb33', type='UNIQUENESS', schema=(:Server {id}), ownedIndex=14 )"
+          ]
+        },
+        "elementId": "-106"
+      },
+      {
+        "identity": -107,
+        "labels": [
+          "Technology"
+        ],
+        "properties": {
+          "name": "Technology",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=17, name='constraint_6bf608ad', type='UNIQUENESS', schema=(:Technology {id}), ownedIndex=16 )"
+          ]
+        },
+        "elementId": "-107"
+      },
+      {
+        "identity": -109,
+        "labels": [
+          "Glossary"
+        ],
+        "properties": {
+          "name": "Glossary",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=21, name='constraint_84ba4f47', type='UNIQUENESS', schema=(:Glossary {id}), ownedIndex=20 )"
+          ]
+        },
+        "elementId": "-109"
+      },
+      {
+        "identity": -103,
+        "labels": [
+          "Portfolio"
+        ],
+        "properties": {
+          "name": "Portfolio",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=9, name='constraint_600ee198', type='UNIQUENESS', schema=(:Portfolio {id}), ownedIndex=8 )"
+          ]
+        },
+        "elementId": "-103"
+      },
+      {
+        "identity": -104,
+        "labels": [
+          "Data_category"
+        ],
+        "properties": {
+          "name": "Data_category",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=11, name='constraint_8228867f', type='UNIQUENESS', schema=(:Data_category {id}), ownedIndex=10 )"
+          ]
+        },
+        "elementId": "-104"
+      },
+      {
+        "identity": -108,
+        "labels": [
+          "Process"
+        ],
+        "properties": {
+          "name": "Process",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=19, name='constraint_928752ea', type='UNIQUENESS', schema=(:Process {id}), ownedIndex=18 )"
+          ]
+        },
+        "elementId": "-108"
+      },
+      {
+        "identity": -100,
+        "labels": [
+          "Application"
+        ],
+        "properties": {
+          "name": "Application",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=3, name='constraint_8a882ed9', type='UNIQUENESS', schema=(:Application {id}), ownedIndex=2 )"
+          ]
+        },
+        "elementId": "-100"
+      },
+      {
+        "identity": -101,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "Person",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=5, name='constraint_59c89b17', type='UNIQUENESS', schema=(:Person {id}), ownedIndex=4 )"
+          ]
+        },
+        "elementId": "-101"
+      }
+    ],
+    "relationships": [
+      {
+        "identity": -102,
+        "start": -100,
+        "end": -102,
+        "type": "SUPPORT_COMPANY",
+        "properties": {
+          "name": "SUPPORT_COMPANY"
+        },
+        "elementId": "-102",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -104,
+        "start": -100,
+        "end": -102,
+        "type": "SUPPORT_DEPARTMENT",
+        "properties": {
+          "name": "SUPPORT_DEPARTMENT"
+        },
+        "elementId": "-104",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -112,
+        "start": -100,
+        "end": -100,
+        "type": "APPLICATION_REQUIRED_FOR_BIA_DRP",
+        "properties": {
+          "name": "APPLICATION_REQUIRED_FOR_BIA_DRP"
+        },
+        "elementId": "-112",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-100"
+      },
+      {
+        "identity": -100,
+        "start": -101,
+        "end": -100,
+        "type": "APPLICATION_OWNER_OF",
+        "properties": {
+          "name": "APPLICATION_OWNER_OF"
+        },
+        "elementId": "-100",
+        "startNodeElementId": "-101",
+        "endNodeElementId": "-100"
+      },
+      {
+        "identity": -103,
+        "start": -100,
+        "end": -102,
+        "type": "SUPPORT_IT_OFFICE",
+        "properties": {
+          "name": "SUPPORT_IT_OFFICE"
+        },
+        "elementId": "-103",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -114,
+        "start": -100,
+        "end": -100,
+        "type": "INTERACT_DIRECTLY_WITH",
+        "properties": {
+          "name": "INTERACT_DIRECTLY_WITH"
+        },
+        "elementId": "-114",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-100"
+      },
+      {
+        "identity": -111,
+        "start": -100,
+        "end": -108,
+        "type": "SUPPORT_PROCESS",
+        "properties": {
+          "name": "SUPPORT_PROCESS"
+        },
+        "elementId": "-111",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-108"
+      },
+      {
+        "identity": -101,
+        "start": -101,
+        "end": -100,
+        "type": "BUSINESS_OWNER_OF",
+        "properties": {
+          "name": "BUSINESS_OWNER_OF"
+        },
+        "elementId": "-101",
+        "startNodeElementId": "-101",
+        "endNodeElementId": "-100"
+      },
+      {
+        "identity": -105,
+        "start": -100,
+        "end": -102,
+        "type": "IS_PROVIDED_BY_VENDOR",
+        "properties": {
+          "name": "IS_PROVIDED_BY_VENDOR"
+        },
+        "elementId": "-105",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -109,
+        "start": -100,
+        "end": -106,
+        "type": "IS_INSTALLED_ON",
+        "properties": {
+          "name": "IS_INSTALLED_ON"
+        },
+        "elementId": "-109",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-106"
+      },
+      {
+        "identity": -110,
+        "start": -100,
+        "end": -107,
+        "type": "IS_SUPPORTED_BY_TECHNOLOGY",
+        "properties": {
+          "name": "IS_SUPPORTED_BY_TECHNOLOGY"
+        },
+        "elementId": "-110",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-107"
+      },
+      {
+        "identity": -113,
+        "start": -100,
+        "end": -110,
+        "type": "DATA_ACCESS_TO",
+        "properties": {
+          "name": "DATA_ACCESS_TO"
+        },
+        "elementId": "-113",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -108,
+        "start": -100,
+        "end": -103,
+        "type": "OWNED_BY_PORTFOLIO",
+        "properties": {
+          "name": "OWNED_BY_PORTFOLIO"
+        },
+        "elementId": "-108",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -106,
+        "start": -100,
+        "end": -104,
+        "type": "HAS",
+        "properties": {
+          "name": "HAS"
+        },
+        "elementId": "-106",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -107,
+        "start": -100,
+        "end": -105,
+        "type": "HAS",
+        "properties": {
+          "name": "HAS"
+        },
+        "elementId": "-107",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-105"
+      },
+      {
+        "identity": -115,
+        "start": -100,
+        "end": -100,
+        "type": "INTERACT_INDIRECTLY_WITH",
+        "properties": {
+          "name": "INTERACT_INDIRECTLY_WITH"
+        },
+        "elementId": "-115",
+        "startNodeElementId": "-100",
+        "endNodeElementId": "-100"
+      }
+    ]
+  }
+]
